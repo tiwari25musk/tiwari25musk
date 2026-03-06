@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi 👋 I'm Muskan Tiwari
 
-<!--
-**tiwari25musk/tiwari25musk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student (4th Semester)
+💻 Learning Python, C++ and Java
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+- Python
+- C++
+- Basic Java
+- HTML & CSS
+
+---
+
+📚 Currently Learning
+
+- Data Structures
+- Java Programming
+- Git & GitHub
+
+---
+
+💻 Projects
+
+🔹 WanderAway – Travel Website
+🔹 Python Basic Programs
+🔹 Java Practice Programs
+
+---
+
+📫 Contact Me
+
+Email: tiwarimuskan2512@gmail.com
+LinkedIn: https://www.linkedin.com/in/muskan-tiwari-b9956a3b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+⭐ Always learning new technologies
+
