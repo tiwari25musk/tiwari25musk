@@ -6,7 +6,7 @@ Hi 👋 I'm Muskan Tiwari
 
 ---
 
-🚀 Skills
+## 🚀 Skills
 
 - Python
 - C++
